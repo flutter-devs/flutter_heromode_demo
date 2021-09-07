@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696972098711",
+    "project_id": "movie-app-b86ee",
+    "storage_bucket": "movie-app-b86ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696972098711:android:efa28c087b0d4b84d63dd2",
+        "android_client_info": {
+          "package_name": "com.aeeologic.movie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696972098711-knr3ho4i1962son5a0894um3o98bqb6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCCAIau3ZmKQ65DWAOXtvH8ciYtxSIJoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696972098711-knr3ho4i1962son5a0894um3o98bqb6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
